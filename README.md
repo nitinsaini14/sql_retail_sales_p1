@@ -324,17 +324,6 @@ SQL-Retail-Sales-Analysis/
 
 ---
 
-# 📷 Sample Output
-
-You can add screenshots of:
-
-- Query Results
-- pgAdmin Output
-- ER Diagram
-- Power BI Dashboard (Future)
-
----
-
 # 👨‍💻 Author
 
 **Nitin Kumar**
@@ -343,7 +332,7 @@ You can add screenshots of:
 
 📊 Aspiring Data Analyst
 
-- GitHub: https://github.com/nitinsaini014
+- GitHub: https://github.com/nitinsaini14
 - LinkedIn: https://linkedin.com/in/nitin-saini-ds
 
 ---
